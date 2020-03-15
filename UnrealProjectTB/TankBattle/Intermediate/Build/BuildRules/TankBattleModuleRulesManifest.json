@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\_Development\\Repo\\Unreal Engine\\TankBattle\\UnrealProjectTB\\TankBattle\\Source\\TankBattle\\TankBattle.Build.cs",
+		"F:\\_Development\\Repo\\Unreal Engine\\TankBattle\\UnrealProjectTB\\TankBattle\\Source\\TankBattle.Target.cs",
+		"F:\\_Development\\Repo\\Unreal Engine\\TankBattle\\UnrealProjectTB\\TankBattle\\Source\\TankBattleEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}
