@@ -1,0 +1,3 @@
+Scale in the landscape means amount of square in the sections per connection. Lower the scale the greater the amount of quads needed to fill a section.
+
+A cube is 1mx1m by default in Unreal. Expanding the scale to 1000 on the x axis is 1km in length. Useful for guage length.
