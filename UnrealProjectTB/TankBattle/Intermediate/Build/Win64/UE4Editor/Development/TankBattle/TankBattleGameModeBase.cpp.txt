@@ -1,0 +1,7 @@
+F:\_Development\Repo\Unreal Engine\TankBattle\UnrealProjectTB\TankBattle\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\Definitions.TankBattle.h
+f:\_development\repo\unreal engine\tankbattle\unrealprojecttb\tankbattle\source\tankbattle\TankBattleGameModeBase.h
+F:\Unreal Engine\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Unreal Engine\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Unreal Engine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Unreal Engine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\_Development\Repo\Unreal Engine\TankBattle\UnrealProjectTB\TankBattle\Intermediate\Build\Win64\UE4Editor\Inc\TankBattle\TankBattleGameModeBase.generated.h
