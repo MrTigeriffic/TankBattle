@@ -1,9 +1,9 @@
-F:\_Development\Repo\Unreal Engine\TankBattle\UnrealProjectTB\TankBattle\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\Definitions.TankBattle.h
-F:\Unreal Engine\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-F:\Unreal Engine\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-F:\_Development\Repo\Unreal Engine\TankBattle\UnrealProjectTB\TankBattle\Source\TankBattle/TankBattleGameModeBase.h
-F:\Unreal Engine\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-F:\Unreal Engine\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-F:\Unreal Engine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-F:\Unreal Engine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-f:\_development\repo\unreal engine\tankbattle\unrealprojecttb\tankbattle\intermediate\build\win64\ue4editor\inc\tankbattle\TankBattleGameModeBase.generated.h
+H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\Definitions.TankBattle.h
+H:\UE4_Versions\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+H:\UE4_Versions\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle\Source\TankBattle/TankBattleGameModeBase.h
+H:\UE4_Versions\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+H:\UE4_Versions\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+H:\UE4_Versions\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+H:\UE4_Versions\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle\Intermediate\Build\Win64\UE4Editor\Inc\TankBattle\TankBattleGameModeBase.generated.h
