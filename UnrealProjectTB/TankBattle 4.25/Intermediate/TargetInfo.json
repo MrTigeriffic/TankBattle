@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TankBattle",
+			"Path": "H:\\Repo\\UnrealEngine\\TankBattle\\TankBattle\\UnrealProjectTB\\TankBattle 4.25\\Source\\TankBattle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TankBattleEditor",
+			"Path": "H:\\Repo\\UnrealEngine\\TankBattle\\TankBattle\\UnrealProjectTB\\TankBattle 4.25\\Source\\TankBattleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

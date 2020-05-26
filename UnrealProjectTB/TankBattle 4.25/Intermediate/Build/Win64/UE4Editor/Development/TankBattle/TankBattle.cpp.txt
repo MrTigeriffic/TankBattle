@@ -1,0 +1,2 @@
+H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\Definitions.TankBattle.h
+h:\repo\unrealengine\tankbattle\tankbattle\unrealprojecttb\tankbattle 4.25\source\tankbattle\TankBattle.h
