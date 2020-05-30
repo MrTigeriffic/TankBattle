@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TankBattle.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{89EA6188-A48C-4644-AD03-E2833883E885}</UniqueIdentifier>
+      <UniqueIdentifier>{CDA72A71-AA11-4F7A-A465-B8FD287C1925}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TankBattle.Target.cs">
       <Filter>Source</Filter>
@@ -13,19 +13,16 @@
     </None>
     <None Include="..\..\TankBattle.code-workspace" />
     <Filter Include="Config">
-      <UniqueIdentifier>{D2150F8B-A230-4B05-8B88-DCD7DAAB804F}</UniqueIdentifier>
+      <UniqueIdentifier>{A8626FEE-EE98-4622-A958-198AD206CFC2}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
     <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\Config\DefaultGame.ini">
+    <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TankBattle">
-      <UniqueIdentifier>{CB0E2F80-E2F8-49D6-9062-BBC898076FB9}</UniqueIdentifier>
+      <UniqueIdentifier>{33876ADF-A949-4405-B575-3082DDBD3D45}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TankBattle\TankBattle.Build.cs">
       <Filter>Source\TankBattle</Filter>
@@ -41,6 +38,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\TankBattle\TankBattleGameModeBase.h">
       <Filter>Source\TankBattle</Filter>
+    </ClInclude>
+    <Filter Include="Source\TankBattle\Private">
+      <UniqueIdentifier>{28854DAA-927E-44C4-B992-069569BE3F82}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TankBattle\Private\TankPlayerController.cpp">
+      <Filter>Source\TankBattle\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TankBattle\Public">
+      <UniqueIdentifier>{64CAE485-A57E-456A-B981-BC7C31ACB454}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TankBattle\Public\TankPlayerController.h">
+      <Filter>Source\TankBattle\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
