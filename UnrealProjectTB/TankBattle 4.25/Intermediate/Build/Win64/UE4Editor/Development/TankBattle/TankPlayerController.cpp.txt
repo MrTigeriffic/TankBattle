@@ -1,0 +1,3 @@
+H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\Definitions.TankBattle.h
+H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Source\TankBattle\Public\TankPlayerController.h
+H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Inc\TankBattle\TankPlayerController.generated.h

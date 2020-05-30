@@ -3,7 +3,7 @@
 /MACHINE:x64
 /SUBSYSTEM:WINDOWS
 /DEF
-/NAME:"UE4Editor-TankBattle.dll"
+/NAME:"UE4Editor-TankBattle-3453.dll"
 /IGNORE:4221
 /NODEFAULTLIB
 "H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\TankBattleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
@@ -14,5 +14,5 @@
 "H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\TankBattleGameModeBase.gen.cpp.obj"
 "H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\TankPlayerController.gen.cpp.obj"
 "H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\Default.rc2.res"
-/OUT:"H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\UE4Editor-TankBattle.lib"
+/OUT:"H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\UE4Editor-TankBattle-3453.lib"
 /INCLUDE:IMPLEMENT_MODULE_TankBattle
