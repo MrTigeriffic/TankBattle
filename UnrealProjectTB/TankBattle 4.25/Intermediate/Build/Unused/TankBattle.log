@@ -1,0 +1,11 @@
+﻿  Building TankBattleEditor...
+  Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] TankPlayerController.cpp
+    [2/4] UE4Editor-TankBattle.lib
+       Creating library H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\UE4Editor-TankBattle.lib and object H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\UE4Editor-TankBattle.exp
+    [3/4] UE4Editor-TankBattle.dll
+       Creating library H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\UE4Editor-TankBattle.suppressed.lib and object H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Intermediate\Build\Win64\UE4Editor\Development\TankBattle\UE4Editor-TankBattle.suppressed.exp
+    [4/4] TankBattleEditor.target
+  Total time in Parallel executor: 2.68 seconds
+  Total execution time: 3.20 seconds
