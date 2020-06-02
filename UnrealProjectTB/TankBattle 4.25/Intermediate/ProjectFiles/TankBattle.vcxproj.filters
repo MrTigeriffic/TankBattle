@@ -52,4 +52,14 @@
       <Filter>Source\TankBattle\Public</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\TankBattle\Public\Tank.h">
+      <Filter>Source\TankBattle\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\TankBattle\Private\Tank.cpp">
+      <Filter>Source\TankBattle\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

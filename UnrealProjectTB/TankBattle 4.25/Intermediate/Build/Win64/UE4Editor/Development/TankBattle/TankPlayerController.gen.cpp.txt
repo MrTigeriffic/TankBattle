@@ -2,4 +2,6 @@ H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Inter
 H:\UE4_Versions\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 H:\UE4_Versions\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
 H:\Repo\UnrealEngine\TankBattle\TankBattle\UnrealProjectTB\TankBattle 4.25\Source\TankBattle/Public/TankPlayerController.h
+h:\repo\unrealengine\tankbattle\tankbattle\unrealprojecttb\tankbattle 4.25\source\tankbattle\public\Tank.h
+h:\repo\unrealengine\tankbattle\tankbattle\unrealprojecttb\tankbattle 4.25\intermediate\build\win64\ue4editor\inc\tankbattle\Tank.generated.h
 h:\repo\unrealengine\tankbattle\tankbattle\unrealprojecttb\tankbattle 4.25\intermediate\build\win64\ue4editor\inc\tankbattle\TankPlayerController.generated.h
